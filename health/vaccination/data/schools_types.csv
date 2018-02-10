@@ -1,0 +1,1244 @@
+ID,Name,Type
+1,Baker High School,traditional
+2,Baker Middle School,traditional
+4,Baker Web Academy,charter
+5,Brooklyn Elementary School,traditional
+6,Burnt River School District,charter
+7,Eagle Cap High School,traditional
+9,Haines Elementary School,traditional
+11,Huntington School District 16J,charter
+12,Keating Elementary School,traditional
+13,Pine Eagle Charter School,charter
+14,South Baker Intermediate,traditional
+15,Adams Elementary School,traditional
+17,Alsea Middle School And High School,charter
+19,Blodgett Elementary School,traditional
+20,Cheldelin Middle School,traditional
+21,Clemens Primary School,traditional
+22,Corvallis High School,traditional
+25,Crescent Valley High School,traditional
+27,Fir Grove Primary School,traditional
+28,Franklin Elementary School,traditional
+29,Franklin Middle School,traditional
+30,Garfield Elementary School,traditional
+31,Hoover Elementary School,traditional
+32,Jefferson Elementary School,traditional
+34,Kings Valley Charter School - Elementary,charter
+35,Kings Valley Charter School - Middle & High School,charter
+37,Lincoln Elementary School,traditional
+38,Linus Pauling Middle School,traditional
+39,Monroe Grade School,traditional
+40,Monroe High School,traditional
+41,Monroe Middle School,traditional
+42,Mountain View Elementary School,traditional
+43,Muddy Creek Charter School,charter
+44,North Albany Elementary School,traditional
+45,North Albany Middle School,traditional
+46,Oak Grove Elementary School,traditional
+47,Philomath Elementary School,traditional
+48,Philomath High School,traditional
+49,Philomath Middle School,traditional
+53,Wilson Elementary School,traditional
+55,Alder Creek Middle School,traditional
+56,Alliance Charter Academy,charter
+59,Ardenwald Elementary,traditional
+60,Arts And Technology High School,traditional
+61,Athey Creek Middle School,traditional
+62,Baker Prairie Middle School,traditional
+64,Beavercreek Elementary,traditional
+65,Bilquist Elementary,traditional
+66,Boeckman Creek Primary,traditional
+67,Bolton Primary,traditional
+68,Boones Ferry Elementary,traditional
+69,Boring Middle School,traditional
+72,Butte Creek School,traditional
+74,Canby High School,traditional
+76,Candy Lane Elementary,traditional
+77,Carus Elementary,traditional
+78,Cascade Heights Public Charter School,charter
+81,Cedar Ridge Middle School,traditional
+82,Cedaroak Park Primary,traditional
+85,Clackamas High School,traditional
+86,Clackamas Middle College,charter
+87,Clackamas River Elementary,traditional
+88,Clarkes Elementary,traditional
+89,Colton Elementary,traditional
+90,Colton High School,traditional
+91,Colton Middle School,traditional
+95,Duncan Elmentary,traditional
+96,Eccles Elementary,traditional
+97,El Puente Elementary,traditional
+99,Estacada High School,traditional
+100,Estacada Junior High,traditional
+102,Firwood Elementary,traditional
+103,Forest Hills Elementary,traditional
+104,Gaffney Lane Elementary,traditional
+105,Gardiner Middle School,traditional
+106,Gladstone Center For Children,traditional
+107,Gladstone High School,traditional
+111,Hallinan Elementary,traditional
+112,Happy Valley Elementary,traditional
+113,Happy Valley Middle School,traditional
+118,Holcomb Elementary,traditional
+121,Jennings Lodge Elementary,traditional
+122,John McLoughlin Elementary,traditional
+123,John Wetten Elementary,traditional
+124,Kelso Elementary,traditional
+125,Kraxberger Middle School,traditional
+127,Lake Grove Elementary,traditional
+128,Lake Oswego High School,traditional
+129,Lake Oswego Jr High School,traditional
+130,Lakeridge High School,traditional
+131,Lakeridge Junior High,traditional
+135,Lewelling Elementary,traditional
+136,Linwood Elementary,traditional
+137,Lowrie Primary School,traditional
+140,Milwaukie Academy Of Arts,charter
+141,Milwaukie Elementary,traditional
+142,Milwaukie High School,traditional
+144,Molalla Elementary,traditional
+145,Molalla High School,traditional
+146,Molalla River Academy,charter
+147,Molalla River Middle School,traditional
+150,Mt Scott Elementary,traditional
+151,Mulino Elementary,traditional
+152,Naas Elementary,traditional
+153,New Urban High School,traditional
+154,Ninety One School,traditional
+156,Oak Creek Elementary,traditional
+159,Oak Grove Elementary,traditional
+160,Ogden Middle School,traditional
+162,Oregon City High School,traditional
+163,Oregon City Service Learning Academy,charter
+164,Oregon Trail Academy,charter
+165,Oregon Trail Elementary,traditional
+169,Philander Lee Elementary,traditional
+171,Redland Elementary,traditional
+172,Renaissance Public Academy,charter
+174,Rex Putnam High School,traditional
+175,River Grove Elementary,traditional
+176,River Mill Elementary,traditional
+178,Riverside Elementary,traditional
+179,Rock Creek Middle School,traditional
+180,Rosemont Ridge Middle School,traditional
+181,Rowe Middle School,traditional
+182,Rural Dell Elementary,traditional
+183,Sandy Grade,traditional
+184,Sandy High School,traditional
+185,Scouters Mountain,traditional
+186,Sojourner Elementary School,traditional
+188,Spring Mountain Elementary,traditional
+189,Springwater Environmental Sciences School,charter
+193,Stafford Primary,traditional
+194,Summit Learning Charter,charter
+196,Sunnyside Elementary,traditional
+198,Sunset Primary,traditional
+199,Three Rivers Charter School,charter
+202,Trillium Creek Primary School,traditional
+203,Trost Elementary,traditional
+206,View Acres Elementary,traditional
+207,Welches Elementary,traditional
+208,Welches Middle School,traditional
+210,West Linn High School,traditional
+211,Westridge Elementary,traditional
+212,Whitcomb Elementary,traditional
+213,Willamette Primary,traditional
+214,William Knight Elementary,traditional
+215,Wilsonville High School,traditional
+216,Wood Middle School,traditional
+217,Astor Elementary,traditional
+218,Astoria High School,traditional
+219,Astoria Middle School,traditional
+220,Broadway Middle School,traditional
+221,Gearhart Elementary,traditional
+222,Hilda Lahti Elementary,traditional
+223,Hilda Lahti Junior High,traditional
+224,Jewell Elementary School,traditional
+225,Jewell High School,traditional
+226,Jewell Middle School,traditional
+227,Knappa High School,traditional
+228,Lewis & Clark Elementary,traditional
+230,North Coast Youth Correctional Facility - South Je,traditional
+231,Seaside Heights Elementary,traditional
+232,Seaside High School,traditional
+233,Warrenton Grade School 4-8,traditional
+234,Warrenton Grade School K-3,traditional
+235,Warrenton High School,traditional
+236,Clatskanie Elementary,traditional
+237,Clatskanie Middle/High School,traditional
+240,North Columbia Academy,charter
+242,Rainier Hudson Park Elementary,traditional
+243,Rainier Junior/Senior High School,traditional
+244,Sauvie Island School,charter
+246,Scappoose Grant Watts Grade School,traditional
+247,Scappoose High School,traditional
+248,Scappoose Middle School,traditional
+249,Scappoose Otto H.H. Peterson,traditional
+250,Scappoose Warren Elementary,traditional
+251,South Columbia Family School,charter
+252,St Helens Yankton Arthur Academy,charter
+253,St. Helens Columbia County Education Campus (Ccec),traditional
+254,St. Helens High School,traditional
+255,St. Helens Lewis & Clark Elementary,traditional
+256,St. Helens McBride Elementary,traditional
+257,St. Helens Middle School,traditional
+258,Vernonia Elementary,traditional
+259,Vernonia High School,traditional
+260,Vernonia Middle School,traditional
+261,Vernonia Mist Grade School,traditional
+262,Bandon High School,traditional
+264,Blossom Gulch Elementary,traditional
+269,Coquille Jr/Sr High School,traditional
+270,Coquille Valley Elementary School,traditional
+271,Destinations Academy,traditional
+273,Harbor Lights Middle School,traditional
+274,Hillcrest Elementary,traditional
+276,Lighthouse School,charter
+277,Lincoln School Of Early Learning,traditional
+278,Madison Elementary,traditional
+279,Marshfield High School,traditional
+280,Millicoma Middle School,traditional
+281,Myrtle Crest Elementary,traditional
+282,Myrtle Point Junior/Senior High School,traditional
+283,North Bay Elementary,traditional
+284,North Bend High School,traditional
+285,North Bend Middle School,traditional
+286,Ocean Crest Elementary School,traditional
+287,Oregon Virtual Academy,charter
+288,Powers School District,traditional
+289,Resource Link Public Charter School,charter
+291,Sunset Middle School,traditional
+293,Winter Lakes School,traditional
+294,Barnes Butte Elementary,traditional
+297,Crook County High School,traditional
+298,Crook County Middle School,traditional
+299,Crook County Pioneer Secondary Alternative High School,traditional
+300,Crooked River Elementary,traditional
+302,Paulina Elementary School,traditional
+303,Powell Butte Community Charter School,charter
+305,Azalea Middle School,traditional
+307,Brookings-Harbor High School,traditional
+308,Driftwood Elementary,traditional
+309,Gold Beach High School,traditional
+310,Kalmiopsis Elementary School,traditional
+311,Pacific High School,traditional
+312,Riley Creek Elementary,traditional
+313,Amity Creek Magnet School,traditional
+314,Bear Creek Elementary,traditional
+315,Bend International School,charter
+316,Bend Senior High School,traditional
+317,Buckingham Elementary School,traditional
+319,Cascade Middle School,traditional
+325,Elk Meadow Elementary,traditional
+326,Elton Gregory Middle School,traditional
+327,Ensworth Elementary,traditional
+330,High Desert Middle School,traditional
+331,High Lakes Elementary School,traditional
+332,Highland Elementary,traditional
+333,John Tuck Elementary,traditional
+334,Juniper Elementary,traditional
+335,Lapine Elementary,traditional
+336,Lapine High School,traditional
+337,Lapine Middle School,traditional
+338,Lava Ridge Elementary,traditional
+339,M A Lynch Elementary School,traditional
+340,Marshall High School,traditional
+341,Miller Elementary School,traditional
+343,Mt View High School,traditional
+345,Obsidian Middle School,traditional
+346,Pacific Crest Middle School,traditional
+347,Pilot Butte Middle School,traditional
+348,Pine Ridge Elementary School,traditional
+349,Ponderosa Elementary,traditional
+350,R E Jewell Elementary,traditional
+351,Realms Charter School,traditional
+353,Redmond High School,traditional
+354,Redmond Proficiency Academy,charter
+355,Ridgeview High School,traditional
+356,Rosland Elementary,traditional
+357,Sage Elementary,traditional
+359,Silver Rail Elementary,traditional
+361,Sisters Elementary School,traditional
+362,Sisters High School,traditional
+363,Sisters Middle School,traditional
+364,Sky View Middle School,traditional
+368,Summit High School,traditional
+369,Terrebonne Community School,traditional
+372,Three Rivers Elementary School,traditional
+374,Tom McCall Elementary,traditional
+376,Tumalo Community School,traditional
+377,Vern Patrick Elementary,traditional
+380,Westside Village,traditional
+381,Brockway Elementary School,traditional
+382,Camas Valley Charter School,charter
+385,Canyonville School,traditional
+387,Coffenberry Middle School,traditional
+388,Days Creek Charter School,charter
+389,Dillard Alternative School,traditional
+391,Douglas High School,traditional
+392,East Primary School,traditional
+393,Eastwood Elementary,traditional
+394,Elkton Grade School,charter
+395,Elkton High School,charter
+396,Fir Grove Elementary School,traditional
+397,Fullerton Iv Elementary School,traditional
+399,Glendale Elementary/Junior High School,traditional
+400,Glendale Senior High School,charter
+401,Glide Elementary School,traditional
+402,Glide High School,traditional
+403,Glide Middle School,traditional
+404,Green Elementary School,traditional
+405,Highland Elementary School,traditional
+406,Hucrest Elementary,traditional
+407,John C Fremont Middle,traditional
+408,Joseph Lane Middle School,traditional
+409,Lincoln Middle School,traditional
+411,Lookingglass Elementary,traditional
+412,McGovern Elementary,traditional
+414,Melrose Elementary School,traditional
+416,Myrtle Creek Elementary School,traditional
+417,North Douglas Elementary/Middle School,traditional
+418,North Douglas High School,traditional
+419,Oakland Elementary School,traditional
+420,Oakland High School,traditional
+421,Phoenix Charter School,charter
+423,Reedsport Community Charter School,charter
+424,Riddle Elementary School,traditional
+425,Riddle Jr/Sr High School,traditional
+426,Roseburg High School,traditional
+428,South Umpqua High School,traditional
+430,Sunnyslope Elementary,traditional
+432,Sutherlin High School,traditional
+433,Sutherlin Middle School,traditional
+435,Tri-City Elementary School,traditional
+437,West Intermediate School,traditional
+438,Winchester Elementary School,traditional
+439,Winston Middle School,traditional
+440,Yoncalla Elementary School,traditional
+441,Yoncalla High School/Middle School,traditional
+442,Dayville School District #16J,traditional
+443,Grant Union Jr/Sr High School,traditional
+444,Humbolt Elementary School,traditional
+445,Long Creek School District #17,traditional
+446,Monument School District #8,traditional
+447,Prairie City School,traditional
+448,Seneca School,traditional
+449,Burns High School,traditional
+450,Crane Elementary School,traditional
+451,Crane Union High School,traditional
+455,Fields Elementary,traditional
+456,Frenchglen Elementary,traditional
+457,Henry L. Slater Elementary School,traditional
+459,Hines Middle School,traditional
+460,Monroe School,traditional
+462,Silvies River Charter School,charter
+463,Suntex Elementary School,traditional
+465,Cascade Locks School,traditional
+466,Hood River Middle,traditional
+467,Hood River Valley High School,traditional
+470,May Street Elementary,traditional
+472,Mid-Valley Elementary,traditional
+474,Parkdale Elementary,traditional
+475,Westside Elementary,traditional
+476,Wy'East Middle School,traditional
+477,Abraham Lincoln,traditional
+478,Armadillo Technical Institute,charter
+479,Ashland High School,traditional
+480,Ashland Middle School,traditional
+481,Bellview Elementary,traditional
+482,Butte Falls Charter Elementary,charter
+483,Butte Falls Charter High School,charter
+485,Central Medford High School,traditional
+486,Central Point Elementary,traditional
+487,Crater Academy Of Health And Public Sevices,traditional
+488,Crater Lake Charter Academy,charter
+489,"Crater School Of Business, Innovation & Science",traditional
+490,Crater's Renaissance Academy,traditional
+491,Eagle Point High School,traditional
+492,Eagle Point Middle School,traditional
+493,Eagle Rock Elementary,traditional
+497,Griffin Creek Elementary,traditional
+498,Hanby Middle School,traditional
+500,Hedrick Middle School,traditional
+501,Helman Elementary,traditional
+502,Hillside Elementary,traditional
+503,Hoover Elementary,traditional
+504,Howard Elementary,traditional
+505,Jackson Elementary,traditional
+506,Jacksonville Elementary,traditional
+507,Jefferson Elementary,traditional
+508,Jewett Elementary,traditional
+509,John Muir Elementary,traditional
+510,Kennedy Elementary,traditional
+511,Kids Unlimited Academy Public Charter School,charter
+513,Lake Creek Learning Center,traditional
+515,Lone Pine Elementary,traditional
+516,Madrone Trail Public Charter School,charter
+517,Mae Richardson Elementary,traditional
+518,McLoughlin Middle,traditional
+523,North Medford High School,traditional
+524,Oak Grove Elementary,traditional
+525,Orchard Hill Elementary,traditional
+526,Patrick Elementary,traditional
+527,Phoenix Elementary,traditional
+528,Phoenix High School,traditional
+530,Prospect Charter School,charter
+531,River's Edge Academy Charter School,charter
+532,Rogue River Elementary,traditional
+533,Rogue River Junior Senior High,traditional
+535,Roosevelt Elementary,traditional
+536,Ruch Elementary,traditional
+538,Sams Valley Elementary,traditional
+539,Scenic Middle School,traditional
+540,Shady Cove School,traditional
+544,South Medford High School,traditional
+547,Tablerock Elementary,traditional
+548,Talent Elementary,traditional
+549,Talent Middle School,traditional
+551,Upper Rogue Center For Ed. Opp (Urceo),traditional
+552,Valley School Of Southern Oregon,charter
+553,Walker Elementary,traditional
+554,Washington Elementary,traditional
+555,White Mountain Middle School,traditional
+557,Wilson Elementary,traditional
+559,Big Muddy School,traditional
+560,Black Butte School,traditional
+562,Buff Elementary,traditional
+563,Culver Elementary School,traditional
+564,Culver High School,traditional
+565,Culver Middle School,traditional
+566,Jefferson County Middle School,traditional
+567,Madras Elementary,traditional
+568,Madras High School,traditional
+569,Metolius Elementary School,traditional
+570,Warm Springs Academy,traditional
+571,Allen Dale Elementary School,traditional
+572,Applegate Elementary,traditional
+576,Evergreen Elementary,traditional
+577,Fleming Middle School,traditional
+578,Fort Vannoy,traditional
+579,Fruitdale Elementary,traditional
+581,Grants Pass High School,traditional
+582,Hidden Valley High,traditional
+583,Highland Elementary School,traditional
+584,Illinois Valley High,traditional
+585,Lincoln Elementary,traditional
+586,Lincoln Savage Middle,traditional
+587,Lorna Byrne Middle,traditional
+588,Madrona Elementary,traditional
+590,Manzanita Elementary,traditional
+593,Newbridge High School,traditional
+594,North Middle School,traditional
+595,North Valley High,traditional
+596,Parkside Elementary,traditional
+597,Redwood Elementary,traditional
+598,Riverside Elementary,traditional
+599,South Middle School,traditional
+601,Sunny Wolf Charter School,charter
+603,Williams Elementary,traditional
+604,Woodland Charter School,charter
+605,Bonanza Elementary School,traditional
+606,Bonanza Jr/Sr High School,traditional
+607,Brixner Junior High School,traditional
+608,Chiloquin Elementary School,traditional
+609,Chiloquin Junior Senior High School,traditional
+610,Conger Elementary School,traditional
+611,Eagle Ridge High School,charter
+612,Falcon Heights Academy,traditional
+613,Ferguson Elementary School,traditional
+615,Gilchrist Elementary School,traditional
+616,Gilchrist Junior Senior High School,traditional
+618,Henley Elementary School,traditional
+619,Henley High School,traditional
+620,Henley Middle School,traditional
+623,Keno Elementary School,traditional
+627,Klamath Union/Almeda House,traditional
+628,Lost River Junior Senior High School,traditional
+629,Malin Elementary School,traditional
+630,Mazama High School,traditional
+631,Merrill Elementary School,traditional
+632,Mills Elementary School,traditional
+634,Pelican Elementary School,traditional
+635,Peterson Elementary School,traditional
+636,Ponderosa Middle School,traditional
+637,Roosevelt Elementary School,traditional
+638,Sage Charter School,charter
+639,Shasta Elementary School,traditional
+640,Stearns Elementary School,traditional
+642,A D Hay School And Fremont School,traditional
+645,Daly Middle School,traditional
+646,Lakeview High School,traditional
+647,North Lake School,traditional
+649,Paisley School District,charter
+652,Union Elementary,traditional
+653,Academy Of Arts & Academics,charter
+654,Ace Charter School,charter
+655,Adams Elementary School,traditional
+656,Agnes Stewart Middle School,traditional
+657,Al Kennedy Alternative High School,traditional
+658,Applegate Elementary,traditional
+659,Arts And Technology Academy,traditional
+660,Awbrey Park Elementary School,traditional
+662,Bohemia Elementary School,traditional
+665,Briggs Middle School,traditional
+666,Buena Vista Elementary School,traditional
+667,Cal Young Middle School,traditional
+668,Camas Ridge Community Elementary,traditional
+669,Cascade Middle School,traditional
+670,Centennial Elementary School,traditional
+671,Charlemagne French Immersion Elementary School,traditional
+672,Chavez Elementary,traditional
+674,Child's Way Charter,charter
+675,Churchill High School,traditional
+676,Clear Lake Elementary,traditional
+677,Coburg Community Charter School,charter
+678,Community Transitions Program,traditional
+679,Corridor Elementary School,traditional
+680,Cottage Grove High School,traditional
+682,Creslane Elementary School,traditional
+684,Creswell High School,traditional
+685,Creswell Middle School,traditional
+686,Crow Middle/High School,traditional
+687,Danebo Elementary,traditional
+688,Dorena Elementary School,traditional
+689,Douglas Garden Elementary,traditional
+691,Edgewood Community School,traditional
+692,Edison Elementary School,traditional
+693,Elizabeth Page Elementary,traditional
+694,Elmira Elementary School,traditional
+695,Elmira High School,traditional
+698,Eugene Education Options,traditional
+702,Fairfield Elementary,traditional
+703,Family School,traditional
+705,Fern Ridge Middle School,traditional
+707,Gateways High School,traditional
+708,Gilham Elementary School,traditional
+710,Guy Lee Elementary,traditional
+711,Hamlin Middle School,traditional
+712,Harrison Elementary School,traditional
+713,Holt Elementary School,traditional
+715,Howard Elementary School,traditional
+717,Irving Elementary,traditional
+720,Junction City High School,traditional
+721,Kalapuya High School,traditional
+722,Kelly Middle School,traditional
+723,Kennedy Middle School,traditional
+726,Latham Elementary School,traditional
+727,Laurel Elementary School,traditional
+730,Lincoln Middle School,traditional
+733,London Elementary School,traditional
+738,Lowell Junior/Senior High School,traditional
+739,Lundy Elementary School,traditional
+740,Madison Middle School,traditional
+741,Malabon Elementary,traditional
+742,Maple Elementary,traditional
+743,Mapleton Elementary School,traditional
+744,Mapleton High School,traditional
+745,Marcola Elementary/High Schools,traditional
+748,McCornack Elementary School,traditional
+750,McKenzie Elementary/High Schools,traditional
+751,Meadow View School,traditional
+752,Monroe Middle School,traditional
+753,Mountain View Academy,charter
+754,Mt Vernon Elementary,traditional
+756,Network Charter School,charter
+757,North Eugene High School,traditional
+760,Oaklea Middle School,traditional
+761,Oakridge High School,traditional
+762,Oakridge Elementary School,traditional
+763,Oakridge Junior High,traditional
+766,Pleasant Hill Elementary School,traditional
+767,Pleasant Hill High School,traditional
+768,Prairie Mountain School,traditional
+769,Ridgeline Montessori,charter
+770,Ridgeview Elementary,traditional
+771,River Road/El Camino Del Rio Elementary School,traditional
+772,Riverbend Elementary,traditional
+773,Roosevelt Middle School,traditional
+775,Shasta Middle School,traditional
+776,Sheldon High School,traditional
+777,Siuslaw Elementary School,traditional
+778,Siuslaw High School,traditional
+779,Siuslaw Middle School,traditional
+780,South Eugene High School,traditional
+781,Spencer Butte Middle School,traditional
+782,Spring Creek Elementary School,traditional
+784,Springfield High School,traditional
+785,Sps Night School,traditional
+791,Territorial Elementary,traditional
+792,Thurston Elementary,traditional
+793,Thurston High School,traditional
+794,Thurston Middle School,traditional
+795,Triangle Lake Charter Elementary School,charter
+796,Triangle Lake Charter Middle School,charter
+797,Triangle Lane Charter High School,charter
+798,Twin Oaks Elementary School,traditional
+800,Two Rivers Dos Rios Elementary,traditional
+801,Veneta Elementary School,traditional
+802,Village School,charter
+803,Walterville Elementary,traditional
+805,West Lane Technical Learning Center,charter
+806,Willagillespie Elementary School,traditional
+808,Willamette High School,traditional
+809,Willamette Leadership Academy-High School,charter
+810,Willamette Leadership Academy-Middle,charter
+811,Yolanda Elementary,traditional
+812,Yujin Gakuen Elementary,traditional
+813,Crestview Heights,traditional
+814,Eddyville Elementary School,charter
+815,Eddyville Secondary Charter School,charter
+817,Lc Career Tech High School,charter
+818,Newport High,traditional
+819,Newport Middle,traditional
+820,Oceanlake Elementary,traditional
+821,Sam Case Elementary,traditional
+823,Siletz Valley Chart School,charter
+824,Siletz Valley Early College Academy,charter
+825,Taft Elementary,traditional
+826,Taft High,traditional
+827,Taft Middle School,traditional
+828,Toledo Elementary,traditional
+829,Toledo High School,traditional
+830,Toledo Junior High,traditional
+831,Waldport High School,traditional
+832,Waldport Middle School,traditional
+833,Yaquina View Elementary,traditional
+836,Albany Options School,traditional
+838,Calapooia Middle School,traditional
+839,Cascades School,traditional
+840,Centennial Elementary,traditional
+841,Central Elementary,traditional
+842,Central Linn Elementary School,traditional
+843,Central Linn Middle/High School,traditional
+845,Clover Ridge Elementary,traditional
+848,Foster Elementary,traditional
+849,Green Acres School,traditional
+850,Hamilton Creek School,traditional
+851,Harrisburg High School,traditional
+852,Harrisburg Elementary,traditional
+853,Harrisburg Middle,traditional
+854,Hawthorne Elementary,traditional
+855,Holley Elementary,traditional
+856,Lacomb School,traditional
+857,Lafayette Elementary,traditional
+859,Lebanon High School,traditional
+861,Liberty Elementary,traditional
+864,Lourdes,charter
+865,Mari-Linn,traditional
+866,Memorial Middle School,traditional
+867,Oak Elementary,traditional
+868,Oak Heights Elementary,traditional
+869,Oregon Connections Academy,traditional
+871,Oregon Youth Authority Three Lakes High,traditional
+872,Periwinkle Elementary,traditional
+873,Pioneer School,traditional
+874,Riverview School,traditional
+875,Sand Ridge Charter School,charter
+876,Santiam Elementary,traditional
+877,Santiam Jr/Sr High,traditional
+878,Scio High School,traditional
+879,Scio Middle School,traditional
+880,Seven Oak Middle School,traditional
+881,South Albany High School,traditional
+882,South Shore Elementary,traditional
+885,Sunrise Elementary School,traditional
+886,Sweet Home Charter School,charter
+887,Sweet Home High School,traditional
+888,Sweet Home Junior High School,traditional
+889,Takena Elementary School,traditional
+890,Tangent Elementary School,traditional
+891,Timber Ridge School,traditional
+892,Waverly Elementary School,traditional
+893,West Albany High School,traditional
+894,Adrian Elementary & Middle School,traditional
+895,Adrian High School,traditional
+896,Aiken Elementary School,traditional
+897,Alameda Elementary,traditional
+898,Annex Charter School,charter
+899,Cairo Elementary School,traditional
+900,Four Rivers Community School,charter
+903,Harper Elementary School,charter
+904,Jordan Valley Elementary School,traditional
+905,Jordan Valley High School,traditional
+907,May Roberts Elementary,traditional
+909,Nyssa Elementary School,traditional
+910,Nyssa High School,traditional
+911,Nyssa Middle School,traditional
+912,Ontario High School,traditional
+913,Ontario Middle School,traditional
+914,Pioneer Elementary School,traditional
+917,Vale Elementary School,traditional
+918,Vale High School,traditional
+919,Vale Middle School,traditional
+920,Willow Creek School,traditional
+921,Ww Jones - Arock School,traditional
+924,Auburn Elementary,traditional
+925,Aumsville Elementary 3-5,traditional
+926,Aumsville Elementary K-2,traditional
+927,Battle Creek Elementary,traditional
+928,Bethany Charter School,charter
+930,Bud To Blossom Day Care,traditional
+931,Bush Elementary,traditional
+933,Candalaria Elementary,traditional
+934,Cascade Junior High School,traditional
+935,Cascade Senior High School,traditional
+937,Centennial Ctp,traditional
+938,Central Howell Elementary,traditional
+939,Cesar E Chavez Elementary,traditional
+940,Chemawa Indian Clinic/School,traditional
+941,Chemeketa Ctp,traditional
+943,Claggett Creek Middle,traditional
+944,Clear Lake Elementary,traditional
+945,Cloverdale Elementary School #5,traditional
+949,Crossler Middle,traditional
+950,Cummings Elementary,traditional
+952,Eagle Charter School,charter
+953,Early College High School,traditional
+954,Englewood Elementary,traditional
+955,Evergreen Elementary School #4,traditional
+956,Eyre Elementary,traditional
+957,Forest Ridge Elementary,traditional
+958,Four Corners,traditional
+959,French Prairie Middle School #103,traditional
+960,Gervais Elementary,traditional
+961,Gervais High,traditional
+962,Gervais Middle,traditional
+964,Grant Elementary School,traditional
+965,Gubser Elementary,traditional
+967,Hallman Elementary,traditional
+968,Hammond Elementary,traditional
+969,Hayesville Elementary,traditional
+970,Heritage Elementary,traditional
+972,Highland Elementary,traditional
+973,Hillcrest-Robert Farrell School,traditional
+975,Hoover Elementary,traditional
+976,Houck Middle,traditional
+977,Howard St. Charter,charter
+979,Jane Goodall Charter School,charter
+980,Jefferson Elementary,traditional
+981,Jefferson High School,traditional
+982,Jefferson Middle School,traditional
+983,John F. Kennedy High School,traditional
+984,Judson Middle,traditional
+985,Keizer Elementary,traditional
+986,Kennedy Elementary,traditional
+987,Lamb Elementary,traditional
+988,Lee Elementary,traditional
+989,Leslie Middle School,traditional
+990,Liberty Elementary,traditional
+991,Lincoln Elementary #103,traditional
+994,Maclaren - Lord High,traditional
+995,Mark Twain Elementary School,traditional
+996,McKay High School,traditional
+997,McKinley Elementary,traditional
+998,McNary High School,traditional
+999,Micah Ctp,traditional
+1000,Miller Elementary,traditional
+1001,Montessori Discovery Center 1,traditional
+1003,Morningside Elementary,traditional
+1004,Mt. Angel Middle School,traditional
+1005,Nellie Muir Elementary #103,traditional
+1006,North Marion High #15,traditional
+1007,North Marion Intermediate #15,traditional
+1008,North Marion Middle #15,traditional
+1009,North Marion Primary #15,traditional
+1010,North Salem High,traditional
+1011,Ole Charter School,charter
+1013,Osh - Quest Adult School-Willamette ESD,traditional
+1015,Parrish Middle School,traditional
+1016,Pratum Elementary,traditional
+1018,Pringle Elementary,traditional
+1021,Richmond Elementary,traditional
+1022,Robert Frost School #4,traditional
+1024,Roberts High School Slc,traditional
+1025,Roberts High School-Dtlc,traditional
+1026,Roberts High School-Skon,traditional
+1027,Roberts High School-Soph,traditional
+1034,Salem Heights Elementary,traditional
+1036,Samuel Brown Academy,traditional
+1037,Schirle Elementary,traditional
+1038,Scott Elementary,traditional
+1039,Scotts Mills #4,traditional
+1040,Silver Crest School,traditional
+1042,Silverton High,traditional
+1043,Silverton Middle School,traditional
+1045,South Salem High School,traditional
+1046,Sprague High School,traditional
+1052,St. Mary's School,traditional
+1054,St. Paul High,traditional
+1057,Stayton Elementary #29,traditional
+1058,Stayton High School,traditional
+1059,Stayton Intermediate,traditional
+1060,Stayton Middle School #29,traditional
+1061,Stephens Middle School,traditional
+1062,Sublimity Elementary Sd 7,traditional
+1063,Sumpter Elementary,traditional
+1064,Swegle Elementary,traditional
+1066,The Community Roots School,charter
+1068,Turner Elementary #5,traditional
+1070,Valley Inquiry Charter,charter
+1071,Valor Middle School #103,traditional
+1072,Victor Point #4,traditional
+1073,Waldo Middle School,traditional
+1074,Washington Elementary,traditional
+1075,Washington Elementary-Woodburn,traditional
+1076,Weddle Elementary,traditional
+1078,Whiteaker Middle,traditional
+1082,Woodburn Arthur Academy,charter
+1083,Woodburn H.S. (Waast),traditional
+1084,Woodburn H.S. (Waca),traditional
+1085,Woodburn H.S. (Webss),traditional
+1086,Woodburn H.S.(Ais),traditional
+1087,Woodburn H.S.Success,traditional
+1088,Wright Elementary,traditional
+1089,Yoshikai Elementary,traditional
+1090,Ac Houghton Elementary,traditional
+1091,Heppner Elementary,traditional
+1092,Heppner High/Middle School,traditional
+1093,Ione Community School,charter
+1094,Irrigon Elementary,traditional
+1095,Irrigon Junior-Senior High School,traditional
+1097,Riverside High School,traditional
+1098,Sam Boardman Elementary,traditional
+1099,Windy River Elementary,traditional
+1100,Abernethy Elementary,traditional
+1102,Ainsworth Elementary,traditional
+1103,Alameda Elementary,traditional
+1104,Alder Elementary,traditional
+1105,Alice Ott Middle School,traditional
+1107,Alliance High School @ Benson Campus,traditional
+1108,Alliance High School At Meek,traditional
+1111,Arleta K-8,traditional
+1426,Perrydale Elementary,traditional
+1112,Arthur Academy Charter (David Douglas S. D.),charter
+1113,Arthur Academy Charter (Portland Public Schools),charter
+1114,Astor K-8,traditional
+1115,Atkinson Elementary,traditional
+1116,Beach Pk-8,traditional
+1117,Beaumont Middle School,traditional
+1118,Benson Polytechnic High School,traditional
+1119,Beverly Cleary K-8,traditional
+1120,Boise-Eliot Pk-8,traditional
+1122,Bridger K-8,traditional
+1124,Bridlemile E.S.,traditional
+1125,Buckman Elementary,traditional
+1128,Butler Creek E.S.,traditional
+1132,Capitol Hill Elementary,traditional
+1136,Centennial High School,traditional
+1137,Centennial Middle School,traditional
+1138,Centennial Park School,traditional
+1139,Center For Advanced Learning,charter
+1142,Cesar Chavez School K-8,traditional
+1143,Chapman Elementary,traditional
+1144,Cherry Park Elementary,traditional
+1146,Chief Joseph,traditional
+1154,Clear Creek Middle School,traditional
+1155,Cleveland High School,traditional
+1159,Corbett Grade School,traditional
+1160,Corbett High School,traditional
+1161,Corbett Middle School,traditional
+1164,Creative Science School Pk-8,traditional
+1165,Creston Pk-8,traditional
+1427,Perrydale Middle/High,traditional
+1166,Damascus Middle School,traditional
+1169,David Douglas High School,traditional
+1170,Davinci Arts Middle School,traditional
+1171,Davis Elementary,traditional
+1174,Deep Creek Elementary,traditional
+1176,Dexter McCarty Middle School,traditional
+1177,Duniway Elementary,traditional
+1178,Earl Boyles Elementary,traditional
+1179,East Gresham Elementary,traditional
+1180,East Orient Elementary,traditional
+1182,Emerson School The,charter
+1183,Fairview Elementary,traditional
+1184,Faubion Elementary,traditional
+1186,Floyd Light Middle School,traditional
+1187,Forest Park Elementary,traditional
+1190,Franklin High School,traditional
+1194,George Middle School,traditional
+1195,Gilbert Heights Elementary,traditional
+1196,Gilbert Park Elementary,traditional
+1197,Glencoe Elementary,traditional
+1198,Glenfair Elementary,traditional
+1199,Gordon Russell Middle School,traditional
+1201,Grant High School,traditional
+1203,Gresham Arthur Academy,charter
+1204,Gresham High School,traditional
+1205,Grout Elementary,traditional
+1206,Hall Elementary,traditional
+1209,Harrison Park Pk-8,traditional
+1210,Hartley Elementary,traditional
+1211,Hayhurst Elementary,traditional
+1212,Hb Lee Middle School,traditional
+1214,Highland Elementary,traditional
+1216,Hogan Cedars,traditional
+1217,Hollydale Elementary,traditional
+1221,Hosford International Middle School,traditional
+1224,Irvington K-8,traditional
+1225,The Ivy School,charter
+1226,Jackson Middle School,traditional
+1227,James John Elementary,traditional
+1228,Jefferson High School,traditional
+1231,Kairospdx,charter
+1232,Kelly Creek Elementary,traditional
+1233,Kelly Elementary,traditional
+1235,King Pk-8,traditional
+1236,Knova Reynolds Public Charter,charter
+1239,Lane Middle School,traditional
+1240,Laurelhurst K-8,traditional
+1241,Le Monde French Immersion,charter
+1242,Lee K-8,traditional
+1243,Lent K-8,traditional
+1244,Lewis Elementary,traditional
+1245,Lewis/Clark Montessori Charter,charter
+1246,Lincoln High School,traditional
+1247,Lincoln Park Elementary,traditional
+1250,Llewellyn Elementary,traditional
+1251,Lynch Meadows Elementary,traditional
+1252,Lynch View Elementary,traditional
+1253,Lynch Wood Elementary,traditional
+1256,Madison High School,traditional
+1259,Maplewood Elementary,traditional
+1260,Margaret Scott Elementary,traditional
+1261,Markham Elementary,traditional
+1262,Marysville K-8,traditional
+1263,Me Web Academy High School,charter
+1264,Me Web Academy Middle School,charter
+1265,Menlo Park Elementary,traditional
+1274,Metropolitan Learning Center K-8,traditional
+1275,Metropolitan Learning Ctr High School,traditional
+1276,Mill Park Elementary,traditional
+1284,Mt Tabor Middle School,traditional
+1285,Multisensory Learning Academy Elementary School,charter
+1286,Multisensory Learning Academy Middle School,charter
+1290,North Gresham Elementary,traditional
+1294,Oliver Elementary,traditional
+1295,Opal Charter School,charter
+1300,Parklane Elementary,traditional
+1301,Parkrose High School,traditional
+1302,Parkrose Middle School,traditional
+1305,Peninsula K-8,traditional
+1311,Pleasant Valley Elementary,traditional
+1316,Portland International Scholars Academy,traditional
+1321,Portland Village School,charter
+1323,Powell Valley Grade School,traditional
+1324,Prescott Elementary,traditional
+1328,Reynolds Arthur Academy,charter
+1329,Reynolds High School,traditional
+1330,Reynolds Learning Academy,traditional
+1331,Reynolds Middle School,traditional
+1332,Richmond Elementary,traditional
+1333,Rieke Elementary,traditional
+1334,Rigler K-5,traditional
+1335,Riverdale Grade School,traditional
+1336,Riverdale High School,traditional
+1337,Robert Gray Middle School,traditional
+1338,Ron Russell Middle School,traditional
+1339,Roosevelt High School,traditional
+1340,Rosa Parks E.S.,traditional
+1344,Roseway Heights K-8,traditional
+1345,Russell Academy,traditional
+1346,Sabin K-8,traditional
+1347,Sacramento Elementary,traditional
+1349,Salish Ponds Elementary,traditional
+1350,Sam Barlow High School,traditional
+1351,Scott K-8,traditional
+1352,Self Enhancement Inc. Academy,charter
+1353,Sellwood Middle School,traditional
+1355,Shaver Elementary,traditional
+1357,Sitton Elementary,traditional
+1358,Skyline K-8,traditional
+1359,Southwest Charter School,charter
+1360,Springwater Trail High School,traditional
+1370,Stephenson Elementary,traditional
+1372,Sunnyside Environmental K-8,traditional
+1374,Sweetbriar Elementary,traditional
+1375,Trillium Public Charter,charter
+1378,Troutdale Elementary,traditional
+1380,Ventura Park Elementary,traditional
+1381,Vernon K-8,traditional
+1382,Vestal K-8,traditional
+1384,Walt Morey Middle School,traditional
+1385,West Gresham Elementary,traditional
+1388,West Orient Middle School,traditional
+1389,West Powellhurst Elementary,traditional
+1390,West Sylvan Middle School,traditional
+1392,Whitman Elementary,traditional
+1394,Wilkes Elementary,traditional
+1395,Wilson High School,traditional
+1396,Winterhaven K-8,traditional
+1397,Woodland Elementary,traditional
+1398,Woodlawn Pk-8,traditional
+1399,Woodmere Elementary,traditional
+1400,Woodstock Elementary,traditional
+1403,Ash Creek Elementary,traditional
+1404,Brush College Elementary,traditional
+1405,Central High School,traditional
+1406,Chapman Hill,traditional
+1407,Dallas Community School,charter
+1408,Dallas High School,traditional
+1411,Falls City Elementary,traditional
+1412,Falls City High School,traditional
+1415,Harritt Elementary,traditional
+1416,Independence Elementary School,traditional
+1417,Kalapuya Elementary,traditional
+1418,Lacreole Middle School,traditional
+1419,Lvc-Luckiamute Valley Charter School,charter
+1420,Lyle Elementary School,traditional
+1423,Monmouth Elementary School,traditional
+1424,Myers Elementary,traditional
+1425,Oakdale Heights,traditional
+1430,Straub Middle School,traditional
+1431,Talmadge Middle School,traditional
+1433,Walker Middle School,traditional
+1434,West Salem High School,traditional
+1436,Whitworth Elementary,traditional
+1437,East Elementary,traditional
+1438,Garibaldi Grade School,traditional
+1439,Liberty Elementary,traditional
+1441,Neahkahnie High School,traditional
+1442,Neahkahnie Middle School,traditional
+1443,Nehalem Elementary,traditional
+1445,Nestucca Middle/High School,traditional
+1446,Nestucca Valley Elementary School,traditional
+1449,South Prairie Elementary School,traditional
+1451,Tillamook High School,traditional
+1452,Tillamook Junior High School,traditional
+1453,Tillamook Youth Correctional Facility,traditional
+1454,Armand Larive Middle School,traditional
+1455,Athena Elementary,traditional
+1457,Central Middle School,traditional
+1458,Clara Brownell Middle School,traditional
+1459,Desert View Elementary,traditional
+1460,Echo Elementary And High School,traditional
+1461,Ferndale Elementary School,traditional
+1462,Freewater Elementary,traditional
+1463,Grove Elementary,traditional
+1465,Hawthorne School,traditional
+1466,Helix School District,traditional
+1468,Hermiston High School,traditional
+1470,Highland Hills Elementary,traditional
+1474,McKay Creek Elementary,traditional
+1475,McLoughlin High School,traditional
+1476,McNary Heights Elementary,traditional
+1478,Nixyaawii Community School,charter
+1479,Pendleton Early Learning Center,traditional
+1480,Pendleton High School,traditional
+1481,Pilot Rock Elementary,traditional
+1482,Pilot Rock Jr/Sr High School,traditional
+1483,Rocky Heights Elementary,traditional
+1484,Sandstone Middle School,traditional
+1485,Sherwood Heights Elementary,traditional
+1486,Stanfield Elementary,traditional
+1487,Stanfield Secondary,traditional
+1488,Sunridge Middle School,traditional
+1489,Sunset Elementary,traditional
+1491,Ukiah Elementary And High School,traditional
+1492,Umatilla High School,traditional
+1493,Washington Elementary,traditional
+1494,West Park Elementary,traditional
+1495,Weston Middle School,traditional
+1496,Weston-McEwen High School,traditional
+1497,Central Elementary School,traditional
+1498,Cove School District/Charter School,charter
+1499,Stella Mayfield Elementary/Elgin High School,traditional
+1502,Greenwood Elementary School,traditional
+1503,Imbler Elementary,charter
+1504,Imbler Jr/Sr High,charter
+1505,Island City Elementary,traditional
+1506,La Grande High School,traditional
+1507,La Grande Middle School,traditional
+1510,North Powder School,charter
+1512,Riverbend High School Oya,traditional
+1513,Union Elementary/High School,traditional
+1514,Union High School,traditional
+1515,Willow Elementary School,traditional
+1516,Enterprise Elementary,traditional
+1517,Enterprise Jr/Sr High School,traditional
+1519,Joseph Schools,traditional
+1521,Wallowa Elementary/High Schools,traditional
+1522,Arlington Elementary,charter
+1523,Arlington High School,charter
+1524,Chenowith Elementary School,traditional
+1525,Colonel Wright Elementary School,traditional
+1527,Condon Grade School,traditional
+1528,Condon High School,traditional
+1530,Dry Hollow Elementary School,traditional
+1531,Dufur School Dist #29,traditional
+1532,Maupin Gradeschool/Little Learners Preschool,traditional
+1533,Mosier Community School,charter
+1535,Sherman County School,traditional
+1537,South Wasco County Jr/High School,traditional
+1539,The Dalles High School,traditional
+1540,The Dalles Middle School,traditional
+1541,Wahtonka Community School,traditional
+1544,Alberta Rider Elementary,traditional
+1545,Aloha High School,traditional
+1546,Aloha-Huber Park School,traditional
+1548,Archer Glen Elementary,traditional
+1549,Arco Iris Spanish Immersion School,charter
+1550,Arts And Communications,traditional
+1551,Banks Elementary School,traditional
+1552,Banks High School,traditional
+1553,Banks Middle School,traditional
+1554,Barnes Elementary,traditional
+1556,Beaver Acres Elementary,traditional
+1558,Beaverton High School,traditional
+1559,Bethany Elementary,traditional
+1561,Bonny Slope Elementary,traditional
+1562,Bridgeport Elementary School,traditional
+1563,Brookwood Elementary School,traditional
+1564,Brown Middle School,traditional
+1566,Butternut Creek Elementary,traditional
+1567,Byrom Elementary,traditional
+1574,Cedar Mill Elementary,traditional
+1575,Cedar Park Middle School,traditional
+1576,Century High School,traditional
+1577,Charles F Tigard Elementary,traditional
+1578,Chehalem Elementary,traditional
+1581,City View Charter School,charter
+1583,Conestoga Middle,traditional
+1584,Cooper Mountain Elementary,traditional
+1587,Cornelius Elementary,traditional
+1592,Deer Creek Elementary,traditional
+1593,Dilley Elementary,traditional
+1594,Durham Education Center,traditional
+1595,Durham Elementary,traditional
+1598,Eastwood Elementary,traditional
+1599,Echo Shaw Elementary,traditional
+1601,Edy Ridge Elementary,traditional
+1602,Elmonica Elementary,traditional
+1603,Errol Hassell Elementary,traditional
+1604,Evergreen Middle School,traditional
+1606,Farmington View Elementary,traditional
+1607,Fern Hill Elementary,traditional
+1608,Findley Elementary,traditional
+1609,Fir Grove Elementary,traditional
+1610,Five Oaks Middle School,traditional
+1611,Forest Grove Community School,charter
+1612,Forest Grove High School,traditional
+1614,Fowler Middle School,traditional
+1615,Free Orchards Elementary,traditional
+1617,Gaston Elementary,traditional
+1618,Gaston Jr. Sr High School,traditional
+1620,Glencoe High School,traditional
+1621,Greenway Elementary,traditional
+1622,Groner Elementary,traditional
+1623,Groner Middle School,traditional
+1625,Harvey Clarke Elementary,traditional
+1626,Hazelbrook Middle School,traditional
+1627,Hazeldale Elementary,traditional
+1628,Health & Science School,traditional
+1629,Highland Park Middle School,traditional
+1630,Hillsboro High School,traditional
+1631,Hillsboro Online Academy,traditional
+1633,Hiteon Elementary,traditional
+1635,Hope Chinese Charter School,charter
+1638,Imlay Elementary,traditional
+1639,Indian Hills Elementary,traditional
+1640,International School Of Beaverton ( Isb ),traditional
+1642,J Clyde Hopkins Elementary School,traditional
+1643,Jackson Elementary,traditional
+1644,Jacob Wismer Elementary,traditional
+1646,Joseph Gale Elementary School,traditional
+1648,Kinnaman Elementary,traditional
+1650,Ladd Acres Elementary,traditional
+1651,Laurel Ridge Middle School,traditional
+1654,Lenox Elementary,traditional
+1656,Liberty High School,traditional
+1658,Lincoln Street Elementary,traditional
+1662,Mary Woodward Elementary,traditional
+1663,McKay Elementary,traditional
+1664,McKinley Elementary,traditional
+1665,McKinney Elementary,traditional
+1666,Meadow Park Middle School,traditional
+1667,Merlo Station Community High School,traditional
+1668,Merlo Station Science And Technology,traditional
+1669,Metzger Elementary School,traditional
+1670,Middleton Elementary,traditional
+1673,Minter Bridge Elementary,traditional
+1674,Mitch Charter School,charter
+1675,Montclair Elementary,traditional
+1677,Mooberry Elementary,traditional
+1678,Mountain View Middle School,traditional
+1681,Nancy Ryles Elementary,traditional
+1682,Neil Armstrong Middle School,traditional
+1684,North Plains Elementary,traditional
+1687,Oak Hills Elementary,traditional
+1690,Orenco Elementary,traditional
+1692,Patterson Elementary,traditional
+1694,Poynter Middle School,traditional
+1696,Quatama Elementary,traditional
+1697,Raleigh Hills Elementary,traditional
+1698,Raleigh Park Elementary,traditional
+1699,Reedville Elementary,traditional
+1700,Ridgewood Elementary,traditional
+1701,Rock Creek Elementary,traditional
+1703,Rosedale Elementary,traditional
+1704,Scholls Heights Elementary,traditional
+1705,Sexton Mt. Elementary,traditional
+1706,Sherwood Charter School,charter
+1707,Sherwood High School,traditional
+1708,Sherwood Middle School,traditional
+1710,South Meadows Middle School,traditional
+1711,Southridge High School,traditional
+1713,Springville School,traditional
+1721,Stoller Middle School,traditional
+1722,Sunset High School,traditional
+1725,Templeton James Elementary,traditional
+1726,Terra Linda Elementary,traditional
+1729,Tigard High School,traditional
+1731,Tobias Elementary,traditional
+1732,Tom McCall Upper Elementary,traditional
+1735,Tualatin Elementary,traditional
+1736,Tualatin High School,traditional
+1738,Twality Middle School,traditional
+1744,Vose Elementary,traditional
+1745,W.L. Henry Elementary,traditional
+1746,West Tualatin View Elementary,traditional
+1747,West Union Elementary School,traditional
+1750,Westview High School,traditional
+1751,Whitford Middle School,traditional
+1752,William Walker Elementary,traditional
+1753,Witch Hazel Elementary,traditional
+1755,Fossil Elementary,charter
+1756,Insight School Of Oregon Painted Hills,charter
+1757,Mitchell School District #55,traditional
+1758,Spray School District #1,traditional
+1759,Wheeler High School,charter
+1760,Amity Elementary School,traditional
+1761,Amity High School,traditional
+1762,Amity Middle School,traditional
+1763,Antonia Crater Elementary,traditional
+1764,Buel Elementary School,traditional
+1767,Chehalem Valley Middle School,traditional
+1768,Columbus Elementary School,traditional
+1770,Dayton Grade School,traditional
+1771,Dayton High School,traditional
+1772,Dayton Jr. High School,traditional
+1774,Dundee Elementary School,traditional
+1775,Duniway Middle School,traditional
+1776,Edwards Elementary School,traditional
+1777,Ewing Young Elementary School,traditional
+1778,Faulconer-Chapman Elementary School,traditional
+1779,Faulconer-Chapman Middle School,traditional
+1780,Grandhaven Elementary,traditional
+1782,Joan Austin Elementary,traditional
+1784,Mabel Rush Elementary,traditional
+1787,McMinnville High School,traditional
+1789,Memorial Elementary School,traditional
+1790,Mountain View Middle School,traditional
+1791,Newberg High School,traditional
+1792,Newby Elementary School,traditional
+1793,Patton Middle School,traditional
+1794,Sheridan High School,traditional
+1795,Sheridan Japanese School,charter
+1799,Wascher Elementary,traditional
+1800,Willamina Elementary School,traditional
+1801,Willamina High School,traditional
+1802,Willamina Middle School,traditional
+1803,Yamhill Carlton Elementary School,traditional
+1804,Yamhill Carlton Intermediate School,traditional
+1805,Yamhill-Carlton High School,traditional
+16,Alsea Elementary School,charter
